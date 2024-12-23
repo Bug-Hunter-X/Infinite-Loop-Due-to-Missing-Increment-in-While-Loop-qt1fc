@@ -1,0 +1,1 @@
+This repository demonstrates a common Java programming error that can be hard to identify. It showcases an infinite loop occurring due to the absence of an increment in the while loop's control variable.  The solution shows how to properly increment the variable to resolve the issue. This is a basic example but highlights a real-world scenario easily overlooked.
